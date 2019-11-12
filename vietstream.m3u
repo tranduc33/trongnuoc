@@ -3,8 +3,8 @@
 https://bozztv.com/36bay2/gin/giniko_netviet_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vinhlong1.png", THVL 1
 http://27.67.50.77:18080//133_2.m3u8?AdaptiveType=HLS&SessionID=2c0cf491-481f-403b-a4ec-f1a87201cb2a&MinBw=0&MaxBw=2000000
-#EXTINF:-1 tvg-logo="https://vnanet.vn/Data/Images/logo.png", TTXVN
-https://v2bdoz1zs4.vcdn.com.vn/hls/VNEWS_631/03.m3u8
+#EXTINF:-1 tvg-logo="http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/htv9.png", HTV 9
+http://27.67.50.76:18080//158_2.m3u8?AdaptiveType=HLS&SessionID=fef05642-c501-40de-a58e-85ccda2a4ac3&MinBw=0&MaxBw=2000000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pc2ZuX0.png",VTC 1
 https://5cf1e0bd8ad7d.streamlock.net/portal/vtc1/chunklist_w775075728.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1FccD2h.png", VTC 2
