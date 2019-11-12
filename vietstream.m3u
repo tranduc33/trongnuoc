@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/197.png", Net Viet HD
 https://bozztv.com/36bay2/gin/giniko_netviet_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/a8/Logoantv.png/200px-Logoantv.png", ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.gmodules.com/gadgets/proxy?container=ig&url=http://xemtvtructuyen.net/ima/vinhlong1.png", THVL 1
+http://27.67.50.77:18080//133_2.m3u8?AdaptiveType=HLS&SessionID=2c0cf491-481f-403b-a4ec-f1a87201cb2a&MinBw=0&MaxBw=2000000
 #EXTINF:-1 tvg-logo="https://vnanet.vn/Data/Images/logo.png", TTXVN
 https://v2bdoz1zs4.vcdn.com.vn/hls/VNEWS_631/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pc2ZuX0.png",VTC 1
