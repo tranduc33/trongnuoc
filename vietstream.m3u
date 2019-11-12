@@ -1,21 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://vietipbox.com/tv-logo/vietoday.png",Vietoday
-http://saigonrtmp.tulix.tv/vchannel1/vchannel1/index.m3u8
-#EXTINF:-1 tvg-logo="https://vietipbox.com/tv-logo/vstv.png",VSTV
-http://saigonrtmp.tulix.tv/vchannel3/vchannel3/index.m3u8
-#EXTINF:-1 tvg-logo="https://vietipbox.com/tv-logo/onfilm.png",On Phim
-http://saigonrtmp.tulix.tv/vchannel4/vchannel4/index.m3u8
-#EXTINF:-1 tvg-logo="https://vietipbox.com/tv-logo/onbiz.png",On Biz
-http://saigonrtmp.tulix.tv/vchannel5/vchannel5/index.m3u8
-#EXTINF:-1 tvg-logo="https://vietipbox.com/tv-logo/echannel.png",E Channel
-http://saigonrtmp.tulix.tv/vchannel6/vchannel6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vietipbox.com/tv-logo/sctv1.jpg",SCTV Hài
-http://saigonrtmp.tulix.tv/vchannel7/vchannel7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vietipbox.com/tv-logo/kenhphimviet.png",Kenh Phim Viet
-http://saigonrtmp.tulix.tv/vchannel8/vchannel8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vietipbox.com/tv-logo/show.png",Show
-http://saigonrtmp.tulix.tv/vchannel9/vchannel9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vietipbox.com/tv-logo/style.png",Style
-http://saigonrtmp.tulix.tv/vchannel10/vchannel10/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vietipbox.com/tv-logo/onfootball.png",On Football
-http://saigonrtmp.tulix.tv/vchannel11/vchannel11/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.giniko.com/logos/190x110/197.png", Net Viet HD
+https://bozztv.com/36bay2/gin/giniko_netviet_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/a8/Logoantv.png/200px-Logoantv.png", ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://vnanet.vn/Data/Images/logo.png", TTXVN
+https://v2bdoz1zs4.vcdn.com.vn/hls/VNEWS_631/03.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pc2ZuX0.png",VTC 1
+https://5cf1e0bd8ad7d.streamlock.net/portal/vtc1/chunklist_w775075728.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1FccD2h.png", VTC 2
+https://5cf1e0bd8ad7d.streamlock.net/portal/vtc2/chunklist_w1859893957.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vemNwkI.png",VTC 3
+https://5cf1e0bd8ad7d.streamlock.net/portal/vtc3/chunklist_w1588686360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0dkRtxJ.png",VTC 4
+https://5cf1e0bd8ad7d.streamlock.net/portal/vtc4/chunklist_w357970825.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDkKiEa.png",VTC 5
+https://5cf1e0bd8ad7d.streamlock.net/portal/vtc5/chunklist_w2053570018.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rTxMJIB.png",VTC 6
+https://5cf1e0bd8ad7d.streamlock.net/portal/vtc6/chunklist_w1367455383.m3u8
