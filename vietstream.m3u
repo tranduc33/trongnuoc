@@ -97,12 +97,6 @@ http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 http://vietcago.net/vstv/quangnamtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://www.quochoitv.vn/images/logo-qhtv.png" tvg-country="VN" tvg-url="" group-title="",Quốc Hội
 http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://s29.postimg.org/x5pf3uayf/SBTN_SET.png" tvg-country="VN" tvg-url="" group-title="",SBTN
-http://settv.saigon.ns01.us:1935/vietset574tvv/myStream/chunklist_w542335559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://www.settv574.com/images/file/sqiLlF2i1AgBAjAv/settv574-logo.png" tvg-country="VN" tvg-url="" group-title="",SET TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://s27.postimg.org/65e8ozu8z/set.png" tvg-country="VN" tvg-url="" group-title="",SET TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-3/settv574-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_213848.png" tvg-country="VN" tvg-url="" group-title="",THGL
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://hanamtv.vn/template/default/images/logo.png" tvg-country="VN" tvg-url="" group-title="",THHN
