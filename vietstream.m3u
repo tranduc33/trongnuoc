@@ -115,10 +115,6 @@ http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://s24.postimg.org/sf24r4qjp/VNTV.png" tvg-country="VN" tvg-url="" group-title="News",Việt News TV
 http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://s23.postimg.org/f0ie1s30b/VNA.png" tvg-country="VN" tvg-url="" group-title="",VNA TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-1/vnatv573-1.m3u8?time=1482109571065
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8FyAr_hgh7a1qZJwmQbRSKyPO1UwPQiiqR4ljjfRS-QjuqWYk" tvg-country="VN" tvg-url="" group-title="",VNA TV
-http://livestream.vnvn.net/hls-live/livepkgr/_definst_/vnatv573-3/vnatv573-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://vgsshop.vn/Data/Sites/1/media/gioi-thieu/logo.png" tvg-country="VN" tvg-url="" group-title="",VTVcab11
 https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="" tvg-country="VN" tvg-url="" group-title="",YenBaiTV
