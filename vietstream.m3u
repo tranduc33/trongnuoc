@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="" tvg-country="VN" tvg-url="" group-title="",AnGiangTV
-http://vietcago.net/vstv/angiangtv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/antv.png" tvg-country="VN" tvg-url="" group-title="",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/antv.png" tvg-country="VN" tvg-url="" group-title="",ANTV
