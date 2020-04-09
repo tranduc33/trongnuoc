@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png" group-title="Shop47",VTV1 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv1
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://i.imgur.com/R7q7HZj.png" group-title="Shop47",VTV2 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv2
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://i.imgur.com/o6SxT3q.png" group-title="Shop47",VTV3 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv3
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" tvg-logo="https://i.imgur.com/4yhPtDf.png" group-title="Shop47",VTV4 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv4
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" tvg-logo="https://i.imgur.com/VBErOd8.png" group-title="Shop47",VTV5 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv5
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 HD" tvg-logo="https://i.imgur.com/GtnRg0D.png" group-title="Shop47",VTV6 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv6
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" tvg-logo="https://i.imgur.com/EQaqb0h.png" group-title="Shop47",VTV7 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv7
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 HD" tvg-logo="https://i.imgur.com/9XsZ2fd.png" group-title="Shop47",VTV8 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv8
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="Shop47",VTV9 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv9
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_14567301764.jpg",VTC1 HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc1hd
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_145673009926.jpg",VTC2
