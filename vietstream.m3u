@@ -27,8 +27,6 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc3hd
 http://113.183.30.54:4022/rtp/232.84.2.149:10714
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc5_145673010995.jpg",tvBlue - VTC5
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc5hd
-#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc6_145673012197.jpg",VTC6
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc6
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://lh3.googleusercontent.com/-r4hxM1_vfxM/U6aMDOw83qI/AAAAAAAAARs/2ijRAmX5vtM/s270/icon_channel_vtc7.png",Today TV - VTC7
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc7hd
 #EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_145792090102.jpg",View TV - VTC8
