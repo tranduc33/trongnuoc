@@ -45,22 +45,6 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc13hd
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc14hd
 #EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",3NTV - VTC16 HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc16hd
-#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo="https://www.upsieutoc.com/images/2019/08/19/123a129a126b1dd94e3.th.jpg", IPTV 9
-http://cafefootball.live/hls/vleague2.m3u8
-#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo=  "https://www.upsieutoc.com/images/2019/08/19/123a129a126b1dd94e3.th.jpg" , IPTV 10
-http://cafefootball.live/hls/sport.m3u8
-#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo= "https://www.upsieutoc.com/images/2019/08/19/123a129a126b1dd94e3.th.jpg"  , IPTV 11
-http://cafefootball.live/hls/son.m3u8
-#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo= "https://www.upsieutoc.com/images/2019/08/19/123a129a126b1dd94e3.th.jpg" , IPTV 12
-http://cafefootball.live/hls/film.m3u8
-#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo=  "https://www.upsieutoc.com/images/2019/08/17/demkhuyatv-thuckhuyatv-betbong365-xem-bong-da-truc-tuyen.th.png" , IPTV 13
-http://cafefootball.live/hls/vleague2.m3u8
-#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo=  "https://www.upsieutoc.com/images/2019/08/17/demkhuyatv-thuckhuyatv-betbong365-xem-bong-da-truc-tuyen.th.png" , IPTV 14
-http://cafefootball.live/hls/sport.m3u8
-#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo= "https://www.upsieutoc.com/images/2019/08/17/demkhuyatv-thuckhuyatv-betbong365-xem-bong-da-truc-tuyen.th.png"  , IPTV 15
-http://cafefootball.live/hls/son.m3u8
-#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo= "https://www.upsieutoc.com/images/2019/08/17/demkhuyatv-thuckhuyatv-betbong365-xem-bong-da-truc-tuyen.th.png"  , IPTV 16
-http://cafefootball.live/hls/film.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/antv.png" tvg-country="VN" tvg-url="" group-title="",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/antv.png" tvg-country="VN" tvg-url="" group-title="",ANTV
