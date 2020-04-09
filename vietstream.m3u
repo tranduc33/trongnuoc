@@ -1,6 +1,48 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="Shop47" tvg-name="VTVcab 1 - Giải Trí TV" tvg-logo="http://i.imgur.com/TRFgLus.jpg",VTVCab1 - Vie Giải trí
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab1hd
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_14567301764.jpg",VTC1 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc1hd
+#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_145673009926.jpg",VTC2
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc2
+#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_145673013407.jpg",VTC3 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc3hd
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png",Yeah1 !Family - VTC4
+http://113.183.30.54:4022/rtp/232.84.2.149:10714
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc5_145673010995.jpg",tvBlue - VTC5
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc5hd
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc6_145673012197.jpg",VTC6
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc6
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://lh3.googleusercontent.com/-r4hxM1_vfxM/U6aMDOw83qI/AAAAAAAAARs/2ijRAmX5vtM/s270/icon_channel_vtc7.png",Today TV - VTC7
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc7hd
+#EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_145792090102.jpg",View TV - VTC8
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lets-viet_145673303543.jpg",VTC9
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc9hd
+#EXTINF:-1 tvg-id="vtc10hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_145673016157.jpg",Nét Việt - VTC10
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc10hd
+#EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png",Kids & Family TV - VTC11
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc11hd
+#EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_itv_145578605209.png",VTC13 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc13hd
+#EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg",VTC14 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc14hd
+#EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg",3NTV - VTC16 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc16hd
+#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo="https://www.upsieutoc.com/images/2019/08/19/123a129a126b1dd94e3.th.jpg", IPTV 9
+http://cafefootball.live/hls/vleague2.m3u8
+#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo=  "https://www.upsieutoc.com/images/2019/08/19/123a129a126b1dd94e3.th.jpg" , IPTV 10
+http://cafefootball.live/hls/sport.m3u8
+#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo= "https://www.upsieutoc.com/images/2019/08/19/123a129a126b1dd94e3.th.jpg"  , IPTV 11
+http://cafefootball.live/hls/son.m3u8
+#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo= "https://www.upsieutoc.com/images/2019/08/19/123a129a126b1dd94e3.th.jpg" , IPTV 12
+http://cafefootball.live/hls/film.m3u8
+#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo=  "https://www.upsieutoc.com/images/2019/08/17/demkhuyatv-thuckhuyatv-betbong365-xem-bong-da-truc-tuyen.th.png" , IPTV 13
+http://cafefootball.live/hls/vleague2.m3u8
+#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo=  "https://www.upsieutoc.com/images/2019/08/17/demkhuyatv-thuckhuyatv-betbong365-xem-bong-da-truc-tuyen.th.png" , IPTV 14
+http://cafefootball.live/hls/sport.m3u8
+#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo= "https://www.upsieutoc.com/images/2019/08/17/demkhuyatv-thuckhuyatv-betbong365-xem-bong-da-truc-tuyen.th.png"  , IPTV 15
+http://cafefootball.live/hls/son.m3u8
+#EXTINF:-1 tvg-id="THỂ THAO" tvg-name="THỂ THAO" group-title="BÓNG ĐÁ TRONG NƯỚC" tvg-logo= "https://www.upsieutoc.com/images/2019/08/17/demkhuyatv-thuckhuyatv-betbong365-xem-bong-da-truc-tuyen.th.png"  , IPTV 16
+http://cafefootball.live/hls/film.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/antv.png" tvg-country="VN" tvg-url="" group-title="",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/antv.png" tvg-country="VN" tvg-url="" group-title="",ANTV
