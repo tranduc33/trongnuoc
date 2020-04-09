@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="Shop47" tvg-name="VTVcab 1 - Giải Trí TV" tvg-logo="http://i.imgur.com/TRFgLus.jpg",VTVCab1 - Vie Giải trí
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab1hd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/antv.png" tvg-country="VN" tvg-url="" group-title="",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/antv.png" tvg-country="VN" tvg-url="" group-title="",ANTV
