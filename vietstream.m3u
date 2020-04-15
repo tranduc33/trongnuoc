@@ -91,14 +91,10 @@ http://113.161.4.48:8080/phuyen/tv.m3u8
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="" tvg-country="VN" tvg-url="" group-title="",QuangNamTV
 http://vietcago.net/vstv/quangnamtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://www.quochoitv.vn/images/logo-qhtv.png" tvg-country="VN" tvg-url="" group-title="",Quốc Hội
-http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_213848.png" tvg-country="VN" tvg-url="" group-title="",THGL
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://hanamtv.vn/template/default/images/logo.png" tvg-country="VN" tvg-url="" group-title="",THHN
 http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mDCM2WqjX5fI2SDnmBk28lqvu1-k1AkWM5-RQ=s900-mo-c-c0xffffffff-rj-k-no" tvg-country="VN" tvg-url="" group-title="",THLC
-http://42.112.16.101:1935/live_/LCTV/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://tv.vnn.vn/Images/tv/tiengiang%20.png" tvg-country="VN" tvg-url="" group-title="",Tien Giang
 http://thtg.vn:8001/thtg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/330504-TTXVN.png" tvg-country="VN" tvg-url="" group-title="",TTXVN
@@ -111,5 +107,3 @@ http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 http://vietnews.saigon.ns01.us:1935/VietNews/myStream/chunklist_w107230799.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://vgsshop.vn/Data/Sites/1/media/gioi-thieu/logo.png" tvg-country="VN" tvg-url="" group-title="",VTVcab11
 https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="" tvg-country="VN" tvg-url="" group-title="",YenBaiTV
-http://vietcago.net/vstv/yenbaitv.m3u8
