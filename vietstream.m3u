@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_14567301764.jpg",VTC1 HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc1hd
-#EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_145673009926.jpg",VTC2
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc2
-#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_145673013407.jpg",VTC3 HD
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtc3hd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/antv.png" tvg-country="VN" tvg-url="" group-title="",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://tduc.tk/logo/antv.png" tvg-country="VN" tvg-url="" group-title="",ANTV
